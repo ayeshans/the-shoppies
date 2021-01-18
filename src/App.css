@@ -1,0 +1,10 @@
+body {
+  background-color:rgb(232, 237, 234);
+  font-family: Arial;
+}
+
+.App {
+  width: 85%;
+  height:550px;
+  margin:auto;
+}
